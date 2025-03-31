@@ -1,4 +1,4 @@
-# Airline passenger satisfaction Project
+# Airline Passenger Satisfaction Project
 
 ## Challenge/Project Summary:
 
@@ -27,3 +27,4 @@ Personal travel purposes performs the major parcel on the dissatisfaction when i
 
 
 ![Image](https://github.com/user-attachments/assets/317354f4-9dd2-477c-89de-d7f686f33b4f)
+![Image](https://github.com/user-attachments/assets/cb1ea080-62b5-41a5-917d-e578f671b4d0)
