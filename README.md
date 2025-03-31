@@ -1,6 +1,4 @@
-# Power-BI-Dashboards
-
-# Adventure Works
+# Airline passenger satisfaction Project
 
 ## Challenge/Project Summary:
 
